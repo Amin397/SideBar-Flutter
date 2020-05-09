@@ -1,21 +1,10 @@
-<<<<<<< HEAD
-# sidebarmenu
 
 A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# SideBar-Flutter
 New Awesome flutter UI for navigation drawer 
->>>>>>> 6522afc85c3d020eb13ce39223d952af42dd89c2
+
+![Screenshot_1589037523](https://user-images.githubusercontent.com/51218670/81478030-b6d6a700-91cf-11ea-84e6-509bc9a075dd.png)
+
+
+![Screenshot_1589037535](https://user-images.githubusercontent.com/51218670/81478063-ce159480-91cf-11ea-86d5-fc1d7e2df888.png)
+
