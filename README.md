@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sidebarmenu
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# SideBar-Flutter
+New Awesome flutter UI for navigation drawer 
+>>>>>>> 6522afc85c3d020eb13ce39223d952af42dd89c2
